@@ -6,7 +6,7 @@ namespace Calculator
     {
         static void Main(string[] args)
         {
-            //Console.WriteLine("Type in quit to end program.");
+            Console.WriteLine("Type in quit to end program.");
             do
             {
                 Console.WriteLine("Enter the operation (*, /, +, ^2, avg) and then your numbers seperated by commas.");
